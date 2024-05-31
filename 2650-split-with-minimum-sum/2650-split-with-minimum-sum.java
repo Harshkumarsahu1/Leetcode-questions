@@ -12,7 +12,7 @@ class Solution {
         int num2 = 0;
         int j = n - 1;
 
-        for (int i = m - 1; i > -1; i--)
+        for (int i =0;i<=m-1;i++)
         {
             num1 += digits[j--] * pow;
             num2 += digits[j--] * pow;
