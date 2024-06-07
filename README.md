@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0383-ransom-note) |
+| [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0383-ransom-note) |
+| [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
 # Backtracking
 |  |
 | ------- |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 # Counting
 |  |
@@ -47,3 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
