@@ -9,9 +9,9 @@ class Solution {
             cumulativeSum += nums[i];
             int remainder = cumulativeSum % k;
             
-            if (remainder < 0) {
-                remainder += k;
-            }
+            // if (remainder < 0) {
+            //     remainder += k;
+            // }
             
             if (remainderIndexMap.containsKey(remainder)) {
                 if (i - remainderIndexMap.get(remainder) > 1) {
