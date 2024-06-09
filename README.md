@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 # Backtracking
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0523-continuous-subarray-sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 # Counting
 |  |
@@ -64,3 +66,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
