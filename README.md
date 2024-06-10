@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 # Counting
 |  |
@@ -70,3 +71,11 @@ Collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
