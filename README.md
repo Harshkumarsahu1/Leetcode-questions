@@ -79,3 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1908-recyclable-and-low-fat-products) |
