@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0011-container-with-most-water) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 # Counting
 |  |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
