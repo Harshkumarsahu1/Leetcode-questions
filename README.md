@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0322-coin-change](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0322-coin-change) |
 | [0502-ipo](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -103,3 +104,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0502-ipo) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0322-coin-change) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0322-coin-change) |
