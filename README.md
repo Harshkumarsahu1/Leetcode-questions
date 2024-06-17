@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 # Trie
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
