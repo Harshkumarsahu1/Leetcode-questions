@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 # Counting
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Trie
 |  |
 | ------- |
