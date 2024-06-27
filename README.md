@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0344-reverse-string) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0322-coin-change) |
 # Breadth-First Search
 |  |
