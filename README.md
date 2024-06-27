@@ -122,3 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0322-coin-change) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1916-find-center-of-star-graph) |
