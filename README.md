@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2379-maximum-total-importance-of-roads) |
 # Counting Sort
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2379-maximum-total-importance-of-roads) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -129,3 +132,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2379-maximum-total-importance-of-roads) |
