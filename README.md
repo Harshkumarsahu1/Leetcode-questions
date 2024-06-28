@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0647-palindromic-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0648-replace-words) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0647-palindromic-substrings) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 # Breadth-First Search
 |  |
 | ------- |
