@@ -141,3 +141,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+<!---LeetCode Topics End-->
