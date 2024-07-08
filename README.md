@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -166,9 +167,19 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2645-pass-the-pillow) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
