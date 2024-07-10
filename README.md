@@ -209,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
