@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1803-average-waiting-time) |
@@ -218,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0197-rising-temperature) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
