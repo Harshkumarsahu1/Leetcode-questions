@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2846-robot-collisions) |
 ## Math
@@ -209,12 +210,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
