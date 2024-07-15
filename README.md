@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2846-robot-collisions) |
@@ -244,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0045-jump-game-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
