@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1803-average-waiting-time) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
