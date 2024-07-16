@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0290-word-pattern) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0290-word-pattern) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
