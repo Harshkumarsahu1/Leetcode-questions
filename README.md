@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1803-average-waiting-time) |
@@ -206,12 +207,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -253,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0290-word-pattern) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
