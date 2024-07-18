@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2846-robot-collisions) |
