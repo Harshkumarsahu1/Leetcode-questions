@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1803-average-waiting-time) |
@@ -283,4 +284,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
