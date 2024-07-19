@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2846-robot-collisions) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
