@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
