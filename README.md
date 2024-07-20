@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
