@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
