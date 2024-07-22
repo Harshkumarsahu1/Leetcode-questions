@@ -19,7 +19,7 @@ class Solution {
              prev=current;
              current=Next;
         }
-        
-        return prev;
+        head=prev;
+        return head;
     }
 }
