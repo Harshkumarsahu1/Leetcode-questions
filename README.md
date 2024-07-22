@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -344,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
