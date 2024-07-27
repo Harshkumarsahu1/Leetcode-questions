@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0290-word-pattern) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
+| [1250-longest-common-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
