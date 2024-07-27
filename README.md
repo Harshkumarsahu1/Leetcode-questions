@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0455-assign-cookies](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
