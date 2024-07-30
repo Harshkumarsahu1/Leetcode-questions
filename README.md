@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
+| [1511-count-number-of-teams](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -401,4 +403,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
