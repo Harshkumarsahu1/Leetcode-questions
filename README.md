@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
