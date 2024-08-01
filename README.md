@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
