@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2727-number-of-senior-citizens) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
 |  |
 | ------- |
