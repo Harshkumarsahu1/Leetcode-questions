@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0726-number-of-atoms) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
