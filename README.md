@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
