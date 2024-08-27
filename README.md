@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1196-filling-bookcase-shelves](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1511-count-number-of-teams) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -456,4 +459,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0040-combination-sum-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
