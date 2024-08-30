@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2803-modify-graph-edge-weights](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2803-modify-graph-edge-weights) |
 ## Array
 |  |
 | ------- |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
 | ------- |
@@ -472,4 +474,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/Harshkumarsahu1/Leetcode-questions/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
